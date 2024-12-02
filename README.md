@@ -1,1 +1,1 @@
-# CourseSage
+# CurateSage
