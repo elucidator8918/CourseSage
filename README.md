@@ -1,2 +1,1 @@
-# CurateSage---Techgium
-Course Recommendation System
+# CurateSage
