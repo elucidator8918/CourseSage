@@ -1,0 +1,678 @@
+course_code,id_student,highest_education,studied_credits,disability,final_result,region_imd_band
+CS 135,1234,Lower Than A Level,0.6,0,2,Mumbai|Confronting extremely high levels of multiple deprivation.
+CS 135,1234,Lower Than A Level,0.6,0,2,Mumbai|Confronting extremely high levels of multiple deprivation.
+CS 135,1234,Lower Than A Level,0.6,0,2,Mumbai|Confronting extremely high levels of multiple deprivation.
+CS 135,1234,Lower Than A Level,0.6,0,2,Mumbai|Confronting extremely high levels of multiple deprivation.
+CS 135,1234,Lower Than A Level,0.6,0,2,Mumbai|Confronting extremely high levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 115,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 115,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 115,2122,Post Graduate Qualification,0.76,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.77,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2122,Post Graduate Qualification,0.645,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 137,2122,Post Graduate Qualification,0.645,0,1,india|Encountering very low levels of multiple deprivation.
+MATH 136,2122,Post Graduate Qualification,0.645,0,1,india|Encountering very low levels of multiple deprivation.
+ENGL 109,2122,Post Graduate Qualification,0.645,0,1,india|Encountering very low levels of multiple deprivation.
+PD 1,2122,Post Graduate Qualification,0.645,0,1,india|Encountering very low levels of multiple deprivation.
+ECON 101,2688,Post Graduate Qualification,0.556,0,2,Mumbai Regiom|Encountering very low levels of multiple deprivation.
+CS 135,2688,Post Graduate Qualification,0.556,0,2,Mumbai Regiom|Encountering very low levels of multiple deprivation.
+MATH 115,2688,Post Graduate Qualification,0.556,0,2,Mumbai Regiom|Encountering very low levels of multiple deprivation.
+MATH 137,2688,Post Graduate Qualification,0.556,0,2,Mumbai Regiom|Encountering very low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+CS 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+CS 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 135,3690,HE Qualification,0.77,0,2,India|Experiencing extremely low levels of multiple deprivation.
+CS 136,3690,HE Qualification,0.77,0,2,India|Experiencing extremely low levels of multiple deprivation.
+MATH 135,3690,HE Qualification,0.77,0,2,India|Experiencing extremely low levels of multiple deprivation.
+CS 136,3690,HE Qualification,0.77,0,2,India|Experiencing extremely low levels of multiple deprivation.
+MATH 135,3690,HE Qualification,0.77,0,2,India|Experiencing extremely low levels of multiple deprivation.
+CS 136,3690,HE Qualification,0.77,0,2,India|Experiencing extremely low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+CS 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+CS 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 135,1663,HE Qualification,0.5,0,1,India|Experiencing extremely low levels of multiple deprivation.
+MATH 137,1663,HE Qualification,0.5,0,1,India|Experiencing extremely low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+CS 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+CS 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+CS 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+CS 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+CS 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+CS 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+MATH 136,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+SPCOM 223,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+ENGL 109,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
+CS 135,577,Post Graduate Qualification,0.76,0,2,Mumbai Region|Experiencing extremely low levels of multiple deprivation.
